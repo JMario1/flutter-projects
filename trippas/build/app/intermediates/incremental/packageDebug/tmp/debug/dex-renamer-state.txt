@@ -1,0 +1,4 @@
+#Sat May 02 22:37:57 WAT 2020
+base.0=/home/jm/flutter-project/trippas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
